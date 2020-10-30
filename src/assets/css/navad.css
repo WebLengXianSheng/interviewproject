@@ -1,0 +1,10 @@
+.z-nav-ad{
+  background: #fe82b7;
+  height: 100px;
+}
+.z-nav-ad-content{
+  max-width: 1190px;
+  min-width: 1000px;
+  margin: 0 auto;
+  height: 100px;
+}

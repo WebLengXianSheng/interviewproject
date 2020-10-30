@@ -1,0 +1,12 @@
+.z-main{
+  width: 100%;
+  height: auto;
+  background: #f5f5f5;
+}
+.z-main-center{
+  max-width: 1190px;
+  min-width: 1000px;
+  height: auto;
+  margin: 0 auto;
+  border: 1px solid #f5f5f5;
+}

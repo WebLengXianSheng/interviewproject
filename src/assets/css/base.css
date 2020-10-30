@@ -1,1 +1,4 @@
-@import "./normalize.css"
+@import "./normalize.css";
+@import "./nav.css";
+@import "./navad.css";
+@import "./main.css"
